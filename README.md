@@ -1,37 +1,47 @@
 # Apps
-Kuky is a social networking app designed to help users find and connect with others who share their social interests. 
-
+Kuky is a social networking app designed to help users find and connect with others who share their interests through a unique and engaging method: video introductions. By leveraging large language models (AI), Kuky offers an innovative approach to matching users based on their video introductions, making the process more efficient and personalized. Here’s how the app works:
 
 
 # User Journey Stories
 
 
-Sign Up / Login
-Users can create a new account or log in to an existing one.
-User provides username, email, and password.
+* *1. Sign Up / Login* *
+New Users: When users first open Kuky, they are greeted with the option to sign up or log in. New users can create an account by providing their username, email, and password. Existing users can log in using their credentials.
+Account Security: Passwords are securely hashed to protect user data.
 
-Onboarding
-Users are guided through the initial setup, including profile creation and selecting interests.
+* *2. Onboarding Process* *
+Profile Setup: Once signed up, users go through an onboarding process to set up their profile. This includes uploading a profile picture and recording a short video introduction.
+Video Introduction: Users introduce themselves and talk about their interests in a video format. For example, “I’m a Persian living in San Antonio with my husband and two boys aged 12 and 6. I’m interested in finding other couples with similar family values within a 20-mile radius.”
+AI Analysis: The AI scans the video to extract key information about the user's interests and preferences.
 
-Home Screen
-Users see a dashboard with potential matches, messages, and notifications.
+* *3. Home Screen* *
+Dashboard: After onboarding, users land on the home screen, which serves as a dashboard. Here, users can see potential matches, recent messages, and notifications.
+Navigation Bar: The navigation bar allows users to switch between the home screen, matches, messages, profile, and settings.
 
-Profile Management
-Users can view and edit their profiles, including bio, location, age, gender, and profile picture.
+* *4. Profile Management* *
+View Profile: Users can view their profile, which displays their profile picture and video introduction.
+Edit Profile: Users can easily update their profile information, including changing their profile picture and re-recording their video introduction.
 
-Interest Selection
-Users can browse and select interests to refine their match criteria.
+* *5. Match Discovery* *
+AI-Driven Matches: Kuky presents users with potential matches based on the analysis of their video introductions. The AI matches users by identifying common interests and preferences mentioned in their videos.
+Match Cards: Users can view profile cards that include the profile picture, video introduction, and a summary of common interests.
+Swipe Mechanism: Users can swipe right to like a profile or swipe left to pass. If both users like each other, a match is created.
 
-Match Discovery
-Users can view profiles of potential matches based on shared interests.
-Users can swipe left to pass or right to like a profile.
+* *6. Chat / Messaging* *
+Message Matches: Once matched, users can start messaging each other. They can view a list of matches and select a match to open the chat window.
+Chat Interface: The chat interface displays the conversation history and allows users to send new messages. Users can also attach images or use emojis to enhance their communication.
 
-Chat / Messaging
-Users can message their matches.
-Users can view message history and send new messages.
+* *7. Interest Selection* *
+Updating Interests: The primary method of interest selection is through video, if they want better matches they need to be more ellaborate. They need to explain who they are & what they are looking to find with the video they upload. It can be split into two videos (who they are is public), what they are looking for (private).
+Impact on Matches: Updating interests can further refine the pool of potential matches, making the matching process more accurate and relevant.
 
-Settings
-Users can adjust account settings, privacy settings, and notification preferences.
+* *8. Settings* *
+Account Settings: Users can manage their account settings, including changing their email or password.
+Privacy Settings: Users have control over their privacy settings, such as visibility and blocking other users.
+Notification Settings: Users can toggle notifications on or off to suit their preferences.
+Logout: Users can log out of their account from the settings screen.
+
+
 
 ----
 
