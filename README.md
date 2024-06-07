@@ -26,7 +26,7 @@ Navigation Bar: The navigation bar allows users to switch between the home scree
 View Profile: Users can view their profile, which displays their profile picture and video introduction.
 Edit Profile: Users can easily update their profile information, including changing their profile picture and re-recording their video introduction.
 
-* *5. Match Discovery* *
+* *5. Match Discovery* * (in app subscription purchase once they have more than 3 matches)
 
 AI-Driven Matches: Kuky presents users with potential matches based on the analysis of their video introductions. The AI matches users by identifying common interests and preferences mentioned in their videos.
 Match Cards: Users can view profile cards that include the profile picture, video introduction, and a summary of common interests.
