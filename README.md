@@ -1,3 +1,8 @@
+# Apps
+Kuky is a social networking app designed to help users find and connect with others who share their social interests. 
+
+
+
 # User Journey Stories
 
 
