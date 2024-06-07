@@ -215,7 +215,7 @@ Edit Profile Screen
 +--------------------------------+
 ```
 
-Interest Selection Screen
+Interest Selection Screen (not sure how can be done visually with video feed)
 
 ```
 
@@ -227,7 +227,7 @@ Interest Selection Screen
 +--------------------------------+
 ```
 
-Match Discovery Screen
+Match Discovery Screen (not sure how can be done visually with video feed)
 
 ```
 
